@@ -1,4 +1,5 @@
 # Katya Baranovskaya
+![2](https://user-images.githubusercontent.com/91286335/158382717-08c96720-5fcb-49a6-a397-6e65d4cd52d2.jpg)
 
 1. **Contacts**
     * Telegram: [@baranesssi]()
