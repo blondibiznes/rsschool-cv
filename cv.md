@@ -1,38 +1,40 @@
 # Katya Baranovskaya
 ![2](https://user-images.githubusercontent.com/91286335/158382717-08c96720-5fcb-49a6-a397-6e65d4cd52d2.jpg)
 
-1. **Contacts**
-    * Telegram: [@baranesssi]()
-    * Github: [blondibiznes](https://github.com/blondibiznes)
-    * Discord: [Katya Baranovska (blondibiznes)#2188](https://discord.com)
-    * LinkedIn: [katya-baranovskaya](https://linkedin.com/in/katya-baranovskaya-3759a0231)
+ ### **Contacts**
+   * Telegram: [@baranesssi]()
+   * Github: [blondibiznes](https://github.com/blondibiznes)
+   * Discord: [Katya Baranovska (blondibiznes)#2188](https://discord.com)
+   * LinkedIn: [katya-baranovskaya](https://linkedin.com/in/katya-baranovskaya-3759a0231)
+*********    
 
-2. **Skills:**
-    * HTML
-    * CSS/SASS
-    * JavaScript
-    * Bootstrap
-    * BEM
-    * GIT/Github
-    * Figma, Marcy
-    * About me: My goal is to become a Junior Frontend Developer. I'm just starting my journey in IT. I'll be glad for your support! 
-  
-3. **Code example:**
+### **Skills:**
+   * HTML
+   * JavaScript
+   * Bootstrap
+   * BEM
+   * GIT/Github
+   * Figma, Marcy
+*********  
+### **About me:** 
+   My goal is to become a Junior Frontend Developer. I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.I'm just starting my journey in IT. I'll be glad for your support! 
+ *********  
+### **Code example:**
 ```
   function sum(a, b) {
     return a + b;
   };
 ```
-
-4. **Progects:**
-    - [Portfolio]()
-    - [Landing]()
-    - [tabs]()
-  
-5. **Education:**
-  * RSSchool "JS-Stage1" ( march 2022 - now)
-  * RSSchool "Stage0" (december 2021 - march 2022)
-  * Hecslet  "HTML, CSS, JavaScript" (june 2021 - december 2022)
-  * NSMC  "Actor. The head of the ensemble, orchestra. The teacher of the bayan class"(2011-2015)
-  
-6. **English: B1(Intermediate)**
+********* 
+### **Progects:**
+   - [Portfolio]()
+   - [Landing]()
+   - [tabs]()
+*********   
+### **Education:**
+   * RSSchool "JS-Stage1" ( march 2022 - now)
+   * RSSchool "Stage0" (december 2021 - march 2022)
+   * Hexlet  "HTML, CSS, JavaScript" (june 2021 - december 2022)
+   * NSMC  "Actor. The head of the ensemble, orchestra. The teacher of the bayan class"(2011-2015)
+*********   
+### **English: B1(Intermediate)**
