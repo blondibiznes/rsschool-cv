@@ -3,9 +3,9 @@
 
 1. **Contacts**
     * Telegram: [@baranesssi]()
-    * Github: [blondibiznes]()
-    * Discord: [Katya Baranovska]()
-    * Github: [blondibiznes]()
+    * Github: [blondibiznes](https://github.com/blondibiznes)
+    * Discord: [Katya Baranovska (blondibiznes)#2188](https://discord.com)
+    * LinkedIn: [katya-baranovskaya](https://linkedin.com/in/katya-baranovskaya-3759a0231)
 
 2. **Skills:**
     * HTML
