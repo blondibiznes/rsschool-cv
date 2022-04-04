@@ -6,7 +6,7 @@
    * Github: [blondibiznes](https://github.com/blondibiznes)
    * Discord: [Katya Baranovska (blondibiznes)#2188](https://discord.com)
    * LinkedIn: [katya-baranovskaya](https://linkedin.com/in/katya-baranovskaya-3759a0231)
-*********    
+   
 
 ### **Skills:**
    * HTML
@@ -15,26 +15,29 @@
    * BEM
    * GIT/Github
    * Figma, Marcy
-*********  
+ 
 ### **About me:** 
    My goal is to become a Junior Frontend Developer. I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills.I'm just starting my journey in IT. I'll be glad for your support! 
- *********  
+ 
+ 
 ### **Code example:**
 ```
   function sum(a, b) {
     return a + b;
   };
 ```
-********* 
+ 
 ### **Progects:**
    - [Portfolio]()
    - [Landing]()
    - [tabs]()
-*********   
+
+
 ### **Education:**
    * RSSchool "JS-Stage1" ( march 2022 - now)
    * RSSchool "Stage0" (december 2021 - march 2022)
    * Hexlet  "HTML, CSS, JavaScript" (june 2021 - december 2022)
    * NSMC  "Actor. The head of the ensemble, orchestra. The teacher of the bayan class"(2011-2015)
-*********   
+
+
 ### **English: B1(Intermediate)**
